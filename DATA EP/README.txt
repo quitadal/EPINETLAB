@@ -1,0 +1,1 @@
+These data are relative to two patients who underwent epilepsy surgery at the Birmingham Children's Hospital, Birmingham, UK. Two seizure episodes for each patient are provided.
