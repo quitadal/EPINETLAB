@@ -6,6 +6,7 @@ Moreover, the platform allows analysis of multiple files in a single process and
 EPINETLAB is being developed since 2015 at the Aston University, Aston Brain Centre, Birmingham, UK, by Dr. Lucia Rita Quitadamo, senior researcher at the School of Life and Health Sciences department. The project was funded by EC, under the Marie Sklodowska-Curie actions-International fellowships (IF). For any enquiry about the software please contact l.quitadamo@aston.ac.uk.
 
 References: 
+
 [1]Quitadamo LR, Mai R, Gozzo F, Pelliccia V, Cardinale F, Seri S. Kurtosis-based detection of intracranial high-frequency oscillations for the identification of the seizure onset zone Int J Neural Syst 2018, Accepted for publication.
 
 [2]Quitadamo LR, Mai R, Seri S. Identification of high-frequency oscillations (HFOs) in paediatric intracranial EEG by means of kurtosis-based time-frequency analysis. Epilepsia 2017, 58:S97-S98.
