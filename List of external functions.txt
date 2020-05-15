@@ -1,0 +1,28 @@
+Epinetlab in some cases makes use or draws inspiration from external functions available in different Matlab sharing platforms (e.g. Matlab Central). We would like to thank the authors of such functions for sharing their efforts with the community.
+
+
+1) corrmap, by Barry M. Wise(% Copyright 1997, Eigenvector Research, Inc.)
+
+2) deleteoutliers, by Brett Shoelson (https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/3961/versions/2/previews/deleteoutliers.m/index.html)
+
+3) fitmethis and its modified version fitmethisRED, by Francisco de Castro(https://uk.mathworks.com/matlabcentral/fileexchange/40167-fitmethis)
+
+4) generate_guid, by Changjiang Yang (https://se.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/37996/versions/1/previews/generate_guid.m/index.html?access_key=)
+
+5) makeColorMap, by Doug Hull (https://uk.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/17552/versions/5/previews/makeColorMap.m/index.html)
+
+6)mne_read_cov, by Matti Hamalainen(https://github.com/fieldtrip/fieldtrip/blob/master/external/mne/mne_read_cov.m)
+
+7)mtit (https://uk.mathworks.com/matlabcentral/fileexchange/3218-mtit-a-pedestrian-major-title-creator)
+
+8)mzscore, by Francisco Augusto Alcaraz Garcia (https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28501/versions/1/previews/mzscore.m/index.html)
+
+9) plotfitdist, by Francisco de Castro (https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/40167/versions/5/previews/plotfitdist.m/index.html)
+
+10)subplottight, by S. Nikolay (https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/30884/versions/4/previews/subplot_tight/subplot_tight.m/index.html)
+
+11) tight_subplot, by Pekka Kumpulainen (https://uk.mathworks.com/matlabcentral/fileexchange/27991-tight_subplot-nh-nw-gap-marg_h-marg_w)
+
+12) tightfig, by Richard Crozier(https://uk.mathworks.com/matlabcentral/fileexchange/34055-tightfig-hfig)
+
+13) xml2struct, by W. Falkena(https://uk.mathworks.com/matlabcentral/fileexchange/28518-xml2struct)
